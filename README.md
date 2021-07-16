@@ -5,5 +5,4 @@ through the online lessons in the [introduction to earth data science textbook o
 
 Here is some more text.
 
-April showers bring May flowers.
-Once bitten, twice shy.
+practice git skills
